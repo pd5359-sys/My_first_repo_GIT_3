@@ -1,0 +1,1 @@
+W pliku zostały wprowadzone zmiany: dodano drugi_plik.txt, zedytowano nowy_plik.txt, dodano nowy_plik.txt

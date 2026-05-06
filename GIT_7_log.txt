@@ -1,0 +1,35 @@
+commit 268595c44be0138e2506a951452c9b2b7ad6c6e6
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:18:55 2026 +0200
+
+    GIT_6 - historia i show
+
+commit d9c7ef7daed3e5d35fd1b93837e420d3f1fc89f5
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:15:08 2026 +0200
+
+    Dodanie opisu zmian z git diff
+
+commit d7db9126bc5caa200e943cddab8b01374b2bd3fb
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:06:03 2026 +0200
+
+    Dodanie README
+
+commit 8ba52d27947e2e9f12eb4b86063b8e193c2ac16d
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:05:12 2026 +0200
+
+    Finalne zmiany
+
+commit aaabfe7ff9e33f6bebc51c36ec8e5c3743b97a6f
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:03:26 2026 +0200
+
+    Dodanie plików status
+
+commit 301cf146962052e906bf3913bc25c42e59346b8f
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:02:31 2026 +0200
+
+    Dodanie plików GIT_1 i GIT_2

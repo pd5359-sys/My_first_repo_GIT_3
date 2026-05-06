@@ -1,0 +1,13 @@
+commit d9c7ef7daed3e5d35fd1b93837e420d3f1fc89f5
+Author: Martyna Moryl-Tarasiuk <pd5359@pjwstk.edu.pl>
+Date:   Mon May 4 21:15:08 2026 +0200
+
+    Dodanie opisu zmian z git diff
+
+diff --git a/my_first_repo_GIT_3/GIT_5_diff.txt b/my_first_repo_GIT_3/GIT_5_diff.txt
+new file mode 100644
+index 0000000..e1422ac
+--- /dev/null
++++ b/my_first_repo_GIT_3/GIT_5_diff.txt
+@@ -0,0 +1 @@
++W pliku zostały wprowadzone zmiany: dodano drugi_plik.txt, zedytowano nowy_plik.txt, dodano nowy_plik.txt

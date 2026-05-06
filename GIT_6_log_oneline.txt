@@ -1,0 +1,5 @@
+d9c7ef7 Dodanie opisu zmian z git diff
+d7db912 Dodanie README
+8ba52d2 Finalne zmiany
+aaabfe7 Dodanie plików status
+301cf14 Dodanie plików GIT_1 i GIT_2

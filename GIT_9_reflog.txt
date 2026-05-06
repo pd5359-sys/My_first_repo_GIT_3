@@ -1,0 +1,12 @@
+4ad4e77 HEAD@{0}: commit: GIT_9 reset
+748fa33 HEAD@{1}: reset: moving to HEAD~1
+6505fcb HEAD@{2}: commit: GIT_9 log
+748fa33 HEAD@{3}: commit: GIT_8 cherry-pick done
+1a8dd5f HEAD@{4}: cherry-pick: GIT_8 cherry-pick log
+4d4bc10 HEAD@{5}: checkout: moving from test to master
+b7339ce HEAD@{6}: commit: GIT_8 cherry-pick log
+4d4bc10 HEAD@{7}: checkout: moving from master to test
+4d4bc10 HEAD@{8}: commit (cherry-pick): Finalne zadania GIT 1-8
+91126a2 HEAD@{9}: commit: GIT_8 cherry pick log
+29f96c1 HEAD@{10}: commit: GIT_8 rebase log
+a07a1f9 HEAD@{11}: commit (initial): Finalne zadania GIT 1-8

@@ -1,0 +1,88 @@
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   GIT_4_status2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	"../0_Karty_pracy_klasa_4_-_CA\305\201O\305\232C.pdf"
+	../1.docx
+	../4. LP Moryl N. -01.05..2026 -NAJNOWSZY.docx
+	../743af2764232a9b9a44aaa5dd529 (1).jpg
+	"../Analiza egzaminu \303\263smoklasisty z Now\304\205 Er\304\205 2025.docx"
+	"../Arkusz oceny pracy w\305\202asnej - Ela Moryl.doc"
+	../Chem_SP_Chem_bez_taj_Kl_7_sprawdzian_4_wersje_A_B.docx
+	../Cukry_inf.docx
+	../Dyplom_Moryl.pdf
+	../INNOWACJA PEDAGOGICZNA - chemia ok.docx
+	../Inkscape.lnk
+	"../KARTK\303\223WK1.docx"
+	"../KARTK\303\223WKA mierzenie k\304\205t\303\263w 20.12.25.docx"
+	../Kalendarz roku szkolnego 2025-2026.docx
+	"../Kartk\303\263wka.docx"
+	../Komunikat o dostosowaniach.pdf
+	../Mat_diag_polr_kl7_XII_2017_Formularz dla nauczyciela.xlsx
+	../Matematyka_odpowiedzi_omap_100_zasady.pdf
+	../Matematyka_odpowiedzi_omap_800_zasady.pdf
+	../Material_pomocniczy_Roznice_znalezione.pdf
+	"../Ocena efektywno\305\233ci 2025/"
+	../PIOSENKI/
+	"../PLAN ZAJ\304\230\304\206 -tabela2.docx"
+	"../PLAN ZAJ\304\230\304\206 -tabela2.pdf"
+	../POMOC PP_2026/
+	../PROJEKT/
+	../REGULAMIN WYCIECZKI do Pragi i Skalnego Miasta.docx
+	../SCIEZKA-POMOCY-DLA-RODZICA-przemoc rowie_nicza.pdf
+	../SGP Baltie 3.lnk
+	"../SPRAWDZIAN_u\305\202amki zwyk\305\202e i dziesi\304\231tne, kl6.docx"
+	"../STACJE ZADANIOWE_kl4_powt-u\305\202amki.docx"
+	../STATUT/
+	../Scenariusz - IV Wieczornica patriotyczna -poprawiona.docx
+	../TUSIA _ STUDIA/
+	"../W dniu Zmartwychwstania niech rado\305\233\304\207 zmartwychwsta\305\202ego Chrystusa wniesie do.docx"
+	../WYMAGANIA-mat/
+	../Wanat-Malgorzata_WYMAGANIA-EDUKACYJNE-Z-CHEMII-DLA-UCZNIOW-O-SPECJALNYCH-POTZEBACH-EDUKACYJNYCH.pdf
+	../Wieczornica Patriotyczna 2024.pptx
+	../Word.lnk
+	"../Wycieczka_co zabra\304\207.docx"
+	../Zoom Workplace.lnk
+	"../analiza pr\303\263bnego egzaminu \303\263smoklasisty_grudzie\305\204 2023.docx"
+	"../analiza pr\303\263bnego egzaminu \303\263smoklasisty_kwiecie\305\2042024.docx"
+	"../analiza pr\303\263bnego egzaminu \303\263smoklasisty_listopad 2023.docx"
+	"../analiza pr\303\263bnego egzaminu \303\263smoklasisty_listopad 2024.docx"
+	"../analiza pr\303\263bnego egzaminu \303\263smoklasisty_luty2024.docx"
+	"../analiza pr\303\263bnego egzaminu \303\263smoklasisty_stycze\305\204 2026.docx"
+	../desktop.ini
+	../e-pity 2025 - program, pity roczne, e-deklaracje.lnk
+	../egzamin_osmoklasisty_matematyka_sprawozdanie_2024.pdf
+	../godziny-wych_klasy-8.pdf
+	../konkurs.docx
+	../koszulki.jpg
+	"../kryteria szczeg\303\263\305\202owe_kl_8.docx"
+	../matematyka-2026-styczen-egzamin-osmoklasisty-probny-odpowiedzi.pdf
+	GIT_4_restore.txt
+	GIT_4_status3.txt
+	../opinia DK.docx
+	../piszemy mail-Znajdz_roznice.pdf
+	../ppp/
+	../probny-egzamin-osmoklasisty-matematyka-marzec-2020.pdf
+	../projekt miasto.pdf
+	../projekt zmian do statutu.docx
+	"../stypendium Borzech\303\263w/"
+	../wszystko/
+	../zadania dla u up w stopniu lekkim.pdf
+	../~$ LP Moryl N. -01.05..2026 -NAJNOWSZY.docx
+	"../~$RTK\303\223WKA_Pitagoras.docx"
+	"../~$aliza pr\303\263bnego egzaminu \303\263smoklasisty_listopad 2023.docx"
+	"../~$aliza pr\303\263bnego egzaminu \303\263smoklasisty_listopad 2024.docx"
+	../~$an dawida.docx
+	"../~$otok\303\263\305\202 Nr 7-24-25.docx"
+	../~$praga.docx
+	"../~$rawozdanie klasyfikacyjne_kl8 ko\305\204cowa.docx"
+	../~$rawozdanie klasyfikacyjne_kl8 roczne.docx
+	../~$zpieczny Internet scenariusz.docx
+	../~WRL1980.tmp
+	"../\305\232R\303\223DROCZNE SPOTKANIE Z RODZICAMI.docx"
+
+no changes added to commit (use "git add" and/or "git commit -a")

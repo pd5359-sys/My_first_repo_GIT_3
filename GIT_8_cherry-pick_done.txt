@@ -1,0 +1,5 @@
+* 1a8dd5f GIT_8 cherry-pick log
+* 4d4bc10 Finalne zadania GIT 1-8
+* 91126a2 GIT_8 cherry pick log
+* 29f96c1 GIT_8 rebase log
+* a07a1f9 Finalne zadania GIT 1-8
